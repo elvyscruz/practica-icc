@@ -1,0 +1,12 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Aplicación Hola Mundo con Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
